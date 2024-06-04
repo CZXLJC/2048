@@ -1,4 +1,4 @@
-package org.example.game2048;
+package AI;
 
 public enum Move {
     UP,DOWN,LEFT,RIGHT
